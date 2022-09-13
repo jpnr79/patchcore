@@ -1,0 +1,1 @@
+In this folder stored backup of original GLPI files, that replaced by plugin.
