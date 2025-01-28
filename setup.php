@@ -33,7 +33,7 @@ define('PLUGIN_PATCHCORE_VERSION', '0.1.0');
 // Minimal GLPI version, inclusive
 define("PLUGIN_PATCHCORE_MIN_GLPI_VERSION", "10.0.1");
 // Maximum GLPI version, exclusive
-define("PLUGIN_PATCHCORE_MAX_GLPI_VERSION", "10.0.99");
+define("PLUGIN_PATCHCORE_MAX_GLPI_VERSION", "12.0.99");
 
 use Glpi\Plugin\Hooks;
 
