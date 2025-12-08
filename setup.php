@@ -70,8 +70,8 @@ function plugin_version_patchcore()
         'homepage'       => 'https://github.com/exilitywork/patchcore',
         'requirements'   => [
             'glpi' => [
-                'min' => PLUGIN_PATCHCORE_MIN_GLPI_VERSION,
-                'max' => PLUGIN_PATCHCORE_MAX_GLPI_VERSION,
+                'min' => '11.0',
+                'max' => '12.0',
             ]
         ]
     ];
